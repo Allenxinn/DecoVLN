@@ -1,12 +1,12 @@
 <h1 align="center">DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation</h1>
 
 <p align="center">
-  <a href="project_page/index.html"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
-  <img src="https://img.shields.io/badge/Paper-Coming%20Soon-red">
-  <img src="https://img.shields.io/badge/Code-Coming%20Soon-orange">
+  <a href="https://allenxinn.github.io/DecoVLN/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
+  <img src="https://img.shields.io/badge/Paper-arXiv%20-red">
   <img src="https://img.shields.io/badge/Models-Coming%20Soon-yellow">
 </p>
 
+<!--
 <p align="center">
   <strong>Zihao Xin</strong><sup>1,*</sup>,
   <strong>Wentong Li</strong><sup>1,*†</sup>,
@@ -26,6 +26,9 @@
   <sup>†</sup>Project Lead, 
   <sup>✉</sup>Corresponding Authors
 </p>
+
+-->
+
 
 <p align="center">
   <img src="assets/images/fig1.png" width="100%">
@@ -48,6 +51,12 @@
 </p>
 
 DecoVLN departs from the conventional paradigm of storing large historical observation sequences and repeatedly moving sampled frames between RAM and VRAM. Instead, it maintains a **VRAM-resident memory bank** populated by an adaptive refinement mechanism that preserves high-value semantic information during the observation phase and feeds it directly into the VLN model during inference.
+
+## Real-world Deployment
+
+<p align="center">
+  <img src="assets/images/real.gif">
+</p>
 
 ## Experimental Results
 
