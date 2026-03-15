@@ -80,4 +80,14 @@ DecoVLN achieves the best performance among prior methods under fair comparison 
 
 ## Citation
 
-The paper link and BibTeX entry will be added once the project is publicly released.
+## BibTeX 🖊️
+```
+@misc{DecoVLN,
+  title={DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation},
+  author={Zihao Xin, Wentong Li, Yixuan Jiang, Bin Wang, Runmin Cong, Jie Qin, Sheng-Jun Huang},
+  year={2026},
+  eprint={},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
+}
+```
