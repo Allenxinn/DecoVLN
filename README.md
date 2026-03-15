@@ -3,8 +3,12 @@
 <p align="center">
   <a href="https://allenxinn.github.io/DecoVLN/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
   <img src="https://img.shields.io/badge/Paper-arXiv%20-red">
-  <img src="https://img.shields.io/badge/Models-Coming%20Soon-yellow">
 </p>
+
+
+<!--
+  <img src="https://img.shields.io/badge/Models-Coming%20Soon-yellow">
+-->
 
 <!--
 <p align="center">
@@ -55,7 +59,7 @@ DecoVLN departs from the conventional paradigm of storing large historical obser
 ## Real-world Deployment
 
 <p align="center">
-  <img src="assets/images/real.gif">
+  <img src="assets/videos/real_4.gif" width="80%" >
 </p>
 
 ## Experimental Results
