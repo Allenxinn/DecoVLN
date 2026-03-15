@@ -40,13 +40,6 @@
 - **Strong Empirical Performance**: DecoVLN achieves leading results under fair settings without global priors or multi-sensor inputs.
 - **Real-World Deployment**: the method has been validated beyond simulation with real-world demos.
 
-## Demo Videos
-
-<p align="center">
-  <video src="assets/videos/real_1.mp4" controls width="48%"></video>
-  <video src="assets/videos/real_3.mp4" controls width="48%"></video>
-</p>
-
 ## Efficiency
 
 <p align="center">
