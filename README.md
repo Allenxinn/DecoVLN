@@ -35,6 +35,11 @@
   <img src="assets/images/fig1.png" width="100%">
 </p>
 
+## Real-world Deployment
+
+<p align="center">
+  <img src="assets/videos/demo-merge.gif" width="80%" >
+</p>
 
 ## Highlights
 
@@ -53,11 +58,6 @@
 
 DecoVLN departs from the conventional paradigm of storing large historical observation sequences and repeatedly moving sampled frames between RAM and VRAM. Instead, it maintains a **VRAM-resident memory bank** populated by an adaptive refinement mechanism that preserves high-value semantic information during the observation phase and feeds it directly into the VLN model during inference.
 
-## Real-world Deployment
-
-<p align="center">
-  <img src="assets/videos/real_4.gif" width="80%" >
-</p>
 
 ## Experimental Results
 
