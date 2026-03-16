@@ -1,8 +1,9 @@
 <h1 align="center">DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation</h1>
 
 <p align="center">
-  <a href="project_page/index.html"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
-  <img src="https://img.shields.io/badge/Paper-Coming%20Soon-red">
+  <a href="(https://allenxinn.github.io/DecoVLN)"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
+  <!-- <a href="https://arxiv.org/abs/2603.13133"><img src="https://img.shields.io/badge/Paper-Coming%20Soon-red"> -->
+  <a href="https://arxiv.org/abs/2603.13133"><img src="https://img.shields.io/badge/Paper-Page-green"></a>
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-orange">
   <img src="https://img.shields.io/badge/Models-Coming%20Soon-yellow">
 </p>
@@ -58,13 +59,21 @@ DecoVLN departs from the conventional paradigm of storing large historical obser
 DecoVLN achieves the best performance among prior methods under fair comparison settings, without relying on global priors or additional sensor modalities.
 
 ## TODO
-
-- [ ] Release the paper link and BibTeX entry
+- [x] Release the paper link and BibTeX entry
+- [ ] Release the dataset
 - [ ] Open-source training and inference code
 - [ ] Release pretrained model checkpoints
 - [ ] Add installation and environment setup instructions
-- [ ] Release the dataset
 
 ## Citation
-
-The paper link and BibTeX entry will be added once the project is publicly released.
+```latex
+@misc{xin2026decovlndecouplingobservationreasoning,
+      title={DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation}, 
+      author={Zihao Xin and Wentong Li and Yixuan Jiang and Bin Wang and Runming Cong and Jie Qin and Shengjun Huang},
+      year={2026},
+      eprint={2603.13133},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2603.13133}, 
+}
+```
