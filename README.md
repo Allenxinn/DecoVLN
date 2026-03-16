@@ -1,7 +1,7 @@
 <h1 align="center">DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation</h1>
 
 <p align="center">
-  <a href="(https://allenxinn.github.io/DecoVLN)"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
+  <a href="https://allenxinn.github.io/DecoVLN"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
   <!-- <a href="https://arxiv.org/abs/2603.13133"><img src="https://img.shields.io/badge/Paper-Coming%20Soon-red"> -->
   <a href="https://arxiv.org/abs/2603.13133"><img src="https://img.shields.io/badge/Paper-arXiv-green"></a>
   <!-- <img src="https://img.shields.io/badge/Code-Coming%20Soon-orange">
