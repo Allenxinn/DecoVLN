@@ -76,7 +76,7 @@ DecoVLN achieves the best performance among prior methods under fair comparison 
 
 ## Citation
 ```latex
-@misc{xin2026decovlndecouplingobservationreasoning,
+@misc{cvpr2026decovln,
       title={DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation}, 
       author={Zihao Xin and Wentong Li and Yixuan Jiang and Bin Wang and Runming Cong and Jie Qin and Shengjun Huang},
       year={2026},
