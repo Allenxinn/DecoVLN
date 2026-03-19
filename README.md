@@ -38,7 +38,7 @@
 ## Real-world Deployment
 
 <p align="center">
-  <img src="assets/videos/demo-merge.gif" width="80%" >
+  <img src="assets/videos/demo-merge2.gif" width="80%" >
 </p>
 
 ## Highlights
